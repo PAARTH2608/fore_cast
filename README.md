@@ -17,5 +17,5 @@ The terminal will show the details of weather forecast.\
 
 ### enjoy :-)
 
-![GitHub Logo](/images/logo.png)
+![GitHub Logo](/utils/demo.png)
 Format: ![Alt Text](url)
