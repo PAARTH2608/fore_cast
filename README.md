@@ -10,8 +10,6 @@ npm install
 ```bash
 node app "City_name"
 ```
-
-The terminal will show the details of weather forecast.\
 3. Demonstration of the application : 
 
 
