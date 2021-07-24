@@ -13,9 +13,5 @@ node app "City_name"
 
 The terminal will show the details of weather forecast.\
 3. Demonstration of the application : 
-
-
-### enjoy :-)
-
 ![GitHub Logo](/utils/demo.png)
-Format: ![Alt Text](url)
+
